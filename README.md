@@ -2,7 +2,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heruppel2@gmail.com)](mailto:heruppel2@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HERuppel)](https://github.com/HERuppel)
 
-### Hey!
+### Hey, I'm Renato!
+
+I'm a student of Computer Engeneering in the State University of Ponta Grossa and a Fullstack Developer. My focus is currently on Mobile Development and general Front-end applications.  
+
+ ### **Experience**
+ 
+- I work as a Developer/Collaborator at [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company at my University.
+
+- I carry out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant since september 2020. 
 
 
 **Languages and Tools:**
