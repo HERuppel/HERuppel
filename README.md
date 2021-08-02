@@ -50,7 +50,7 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
 ## 
 
 <div>
-  <a href="https://github.com/marcoskrul">
+  <a href="https://github.com/heruppel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heruppel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heruppel&layout=compact&langs_count=7&theme=radical"/>
 </div>
