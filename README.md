@@ -12,7 +12,8 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
 - I carry out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant since september 2020. 
 
 
-**Languages & Frameworks**
+## **Languages & Frameworks**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +27,7 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
-**Tools**
+## **Tools**
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
