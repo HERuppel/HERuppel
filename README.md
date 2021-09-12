@@ -9,7 +9,7 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
  
 - Developer/Collaborator at [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company at my University.
 
-- I carried out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant since september 2020 until september 2021.
+- I carried out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant between september 2020 and september 2021.
 
 - Intern in React/NodeJS/AWS serverless Web Developer at [Medcloud](https://medcloud.link).
 
