@@ -7,7 +7,7 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
 
  ### **Experience**
  
-- Former Developer/Collaborator at the deceased Junior Computer Engineering Company at my University.
+- Former Developer/Collaborator/President at the deceased Junior Computer Engineering Company at my University.
 
 - I carried out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant between september 2020 and september 2021.
 
