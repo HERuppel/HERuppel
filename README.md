@@ -3,7 +3,7 @@
 
 ### Hey, I'm Renato!
 
-I'm a student of Computer Engeneering in the State University of Ponta Grossa and a Fullstack Developer. My focus is currently on Mobile Development and general Front-end applications.  
+I'm a student of Computer Engeneering in the State University of Ponta Grossa and a Fullstack Developer. My focus is currently on Mobile Development and general Front-end and Back-end applications.  
 
  ### **Experience**
  
