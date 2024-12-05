@@ -11,7 +11,9 @@ I'm a student of Computer Engeneering in the State University of Ponta Grossa an
 
 - I carried out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant between september 2020 and september 2021.
 
-- Six months internship in Web Development with React/NodeJS/AWS at [Medcloud](https://medcloud.link).
+- Ten months internship in Web Development with React/NodeJS/AWS at [Medcloud](https://medcloud.link).
+  
+- Junior FullStack Developer with TypeScript/React/NodeJS/AWS at [Medcloud](https://medcloud.link).
 
 
 ## **Languages & Frameworks**
