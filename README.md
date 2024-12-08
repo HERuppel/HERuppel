@@ -3,17 +3,7 @@
 
 ### Hey, I'm Renato!
 
-I'm a student of Computer Engeneering in the State University of Ponta Grossa and a Fullstack Developer. My focus is currently on Mobile Development and general Front-end and Back-end applications.  
-
- ### **Experience**
- 
-- Former Developer/Collaborator/President at the deceased Junior Computer Engineering Company at my University.
-
-- I carried out a one year scientific research in the line of Development and Evaluation of electronic systems for the control of smart spaces, with a PIBIC/CNPQ research grant between september 2020 and september 2021.
-
-- Ten months internship in Web Development with React/NodeJS/AWS at [Medcloud](https://medcloud.link).
-  
-- Junior FullStack Developer with TypeScript/React/NodeJS/AWS at [Medcloud](https://medcloud.link).
+I'm a Computer Engeneer by the State University of Ponta Grossa and a Fullstack Developer. My focus is currently on Mobile Development and general Front-end and Back-end applications, using Typescript and Golang.  
 
 
 ## **Languages & Frameworks**
